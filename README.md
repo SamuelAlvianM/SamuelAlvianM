@@ -6,7 +6,9 @@
     "Coding is not just about writing code, it's about creating solutions that matter. <b>Enjoy the Journey without end.</b>" 💻
 </p>
 
-![welcome](/PIC-1.gif)
+<div align="center">
+  <img src="./PIC-1.gif" alt="welcome" style="width: 100%; height: 340;">
+</div>
 
 ## BIO
 
