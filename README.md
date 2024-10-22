@@ -7,7 +7,7 @@
 </p>
 
 <div align="center">
-  <img src="./PIC-1.gif" alt="welcome" style="width: 50%; height: 10%;">
+  <img src="./PIC-3.gif" alt="welcome" style="width: 100%; height: 10%;">
 </div>
 
 ## BIO
