@@ -13,12 +13,12 @@
 ## BIO
 
 <p style="font-family: 'Tilt Neon', sans-serif;">
-  👨‍💻 **Name**: Samuel Alvian Mahardika <br/>
-  🚹 **Gender**: Male <br/>
-  💼 **Role**: Software Engineer <br/>
-  🛠️ **Speciality**: Backend Engineer <br/>
-  📈 **Current Level**: Junior <br/>
-  🎯 **Current Activity**: <br/>
+  👨‍💻 <b>Name</b>: Samuel Alvian Mahardika <br/>
+  🚹 <b>Gender</b>: Male <br/>
+  💼 <b>Role</b>: Software Engineer <br/>
+  🛠️ <b>Speciality</b>: Backend Engineer <br/>
+  📈 <b>Current Level</b>: Junior <br/>
+  🎯 <b>Current Activity</b>: <br/>
   - 🌱 Upgrading skills and learning frontend skillsets <br/>
   - 🏆 Team Leader RevoU FullStack Software Engineer - Section PARIS <br/>
   - 🚀 Founder ELOLA - POS <br/>
