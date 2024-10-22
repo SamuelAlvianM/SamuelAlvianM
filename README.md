@@ -2,9 +2,9 @@
 
 <h1 style="font-family: 'Tilt Neon', san-serif" >✨ WELCOME TO MY PROFILE! ✨</h1>
 
-<p style="font-family: 'Tilt Neon', sans-serif; font-size: 18px;" align="center">
+<h3 style="font-family: 'Tilt Neon', sans-serif; font-size: 18px;" align="center">
     "Coding is not just about writing code, it's about creating solutions that matter. <b>Enjoy the Journey without end.</b>" 💻
-</p>
+</h3>
 
 <div align="center">
   <img src="./PIC-3.gif" alt="welcome" style="width: 100%; height: 10%;">
