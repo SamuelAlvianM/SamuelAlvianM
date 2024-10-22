@@ -2,7 +2,7 @@
 
 <h1 style="font-family: 'Tilt Neon', san-serif" >✨ WELCOME TO MY PROFILE! ✨</h1>
 
-<p style="font-family: 'Tilt Neon', sans-serif; font-size: 18px;">
+<p style="font-family: 'Tilt Neon', sans-serif; font-size: 18px;" align="center">
     "Coding is not just about writing code, it's about creating solutions that matter. <b>Enjoy the Journey without end.</b>" 💻
 </p>
 
